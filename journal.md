@@ -10,3 +10,7 @@ Ou bien juste initier le dossier en git  par control shift G
 ## les suivi de docs sur git 
 stage change : changement d'etape 
 discard change : anunuler le changement 
+<<<<<<< HEAD
+=======
+add nouveua file 
+>>>>>>> 03ea816 (mise a jour les fichieres)
