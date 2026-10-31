@@ -8,3 +8,5 @@ losque je creer un dossier je peuc initier un depot git (ou crerer un depot git 
 et faire mes modif). 
 Ou bien juste initier le dossier en git  par control shift G 
 ## les suivi de docs sur git 
+stage change : changement d'etape 
+discard change : anunuler le changement 
